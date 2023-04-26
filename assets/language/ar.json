@@ -266,7 +266,7 @@
   "rate_your_service": "عنوان الشحن",
   "verification": "عنوان الشحن",
   "shipping_address": "عنوان الشحن",
-  "order": "ترتيب",
+  "order": "الطلب",
   "expected_date": "التاريخ المتوقع",
   "amount_is_greater_than_0": "يجب أن يكون المبلغ أكبر من 0",
   "add_a_bank_account": "أضف حسابًا مصرفيًا",
